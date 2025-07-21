@@ -1,0 +1,11 @@
+Month,AustralianPort,ForeignPort,Country,Passengers_In,Freight_In_(tonnes),Mail_In_(tonnes),Passengers_Out,Freight_Out_(tonnes),Mail_Out_(tonnes),Passengers_Total,Freight_Total_(tonnes),Mail_Total_(tonnes),Year,Month_num
+Jan-85,Adelaide,Auckland,New Zealand,1513,42.167,0.311,985,18.704,0.924,2498,60.871,1.235,1985,1
+Jan-85,Adelaide,Bahrain,Bahrain,12,0.0,0.0,5,0.033,0.0,17,0.033,0.0,1985,1
+Jan-85,Adelaide,Bombay,India,7,0.0,0.0,5,0.0,0.0,12,0.0,0.0,1985,1
+Jan-85,Adelaide,Frankfurt,Germany,115,0.009,0.0,171,0.0,0.248,286,0.009,0.248,1985,1
+Jan-85,Adelaide,London,UK,1567,2.8,0.0,1472,10.618,2.487,3039,13.418,2.487,1985,1
+Jan-85,Adelaide,Muscat,Oman,17,0.0,0.0,14,0.1,0.0,31,0.1,0.0,1985,1
+Jan-85,Adelaide,Rome,Italy,79,0.005,0.0,44,0.0,0.0,123,0.005,0.0,1985,1
+Jan-85,Adelaide,Singapore,Singapore,2496,37.345,0.0,2037,133.203,0.112,4533,170.548,0.112,1985,1
+Jan-85,Brisbane,Abu Dhabi,United Arab Emirates,0,0.0,0.0,3,0.0,0.0,3,0.0,0.0,1985,1
+Jan-85,Brisbane,Auckland,New Zealand,7157,223.258,0.671,5652,33.032,3.218,12809,256.29,3.889,1985,1
